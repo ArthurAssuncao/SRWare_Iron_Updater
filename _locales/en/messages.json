@@ -1,0 +1,12 @@
+﻿{
+	//manifest
+	"description": {
+		"message": "SRWare Iron Updater.",
+		"description": "Extension Description."
+	},
+	//notificacao
+	"click_download": {
+		"message": "Click in notification to download",
+		"description": "Informa como baixar a nova versao"
+	}
+}
